@@ -5,13 +5,16 @@ An interactive 3-page Power BI dashboard analyzing **100 employees** across **5 
 ## Dashboard
 
 ### Overview
-![Overview](overview.png)
+![Overview](<img width="1326" height="741" alt="image" src="https://github.com/user-attachments/assets/1ce8f885-3d2e-4d14-a403-5f3217a778c0" />
+)
 
 ### Performance
-![Performance](performance.png)
+![Performance](<img width="1325" height="742" alt="image" src="https://github.com/user-attachments/assets/c4690b6f-7168-4acc-9415-50b18e02a17a" />
+)
 
 ### Staff & Salary
-![Staff and Salary](staff-salary.png)
+![Staff and Salary](<img width="1326" height="748" alt="image" src="https://github.com/user-attachments/assets/fcd411fd-34f0-42f1-9dad-66050718388b" />
+)
 
 ## Business Questions
 
